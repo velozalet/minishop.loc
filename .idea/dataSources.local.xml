@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - minishop@localhost" uuid="58b0078a-e2cd-4978-87c4-0bbafa9a82e0">
+      <secret-storage>master_key</secret-storage>
+      <user-name>minishop</user-name>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,72 @@
+#header_div {
+    background-image: url("assets/img/main_banner_img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 269px;
+    margin-bottom: 10px;
+    border-radius: 13px;
+}
+
+#footer_div {
+    background-color: yellow;
+}
+
+.menu-main-menu-container {
+    overflow: auto;
+    text-align: center;
+}
+
+div.menu-main-menu-container > ul#menu-main-menu >li {
+    display: inline;
+    padding-right: 10px;
+}
+div.menu-main-menu-container > ul#menu-main-menu >li::before {
+    content: '\25b8 ';
+    padding-right: 4px;
+}
+div.menu-main-menu-container > ul#menu-main-menu >li > a {
+    color: orangered;
+}
+div.menu-main-menu-container > ul#menu-main-menu >li > a:hover {
+    color: #ff1d2c;
+    font-style: italic;
+}
+
+hr {
+    border: none;
+    color: red;
+    background-color: red;
+    height: 1px;
+}
+
+div.title_products {
+    text-align: center;
+}
+
+#page_main_content_wrap > ol > li {
+    padding-bottom: 10px;
+}
+
+div[class="mm"] {
+    color: red;
+}
+
+span[class="title_item_product"] {
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#btn_login_in {
+    float:right;
+    overflow: hidden;
+}
+
+h3#myModalLabel {
+    color: grey;
+}
+
+p.text-success.text-center.center-block {
+    position: relative;
+    top: -251px;
+}

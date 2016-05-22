@@ -1,0 +1,4 @@
+#menu-posts-posttypeproducts > a > div.wp-menu-name,
+#menu-posts-posttypeorders > a > div.wp-menu-name {
+    color: red;
+}

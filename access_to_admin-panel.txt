@@ -1,0 +1,6 @@
+ 
+/*______________________Access to Admin-panel:
+ * User Name: admin
+ * Password: @JRUcZ(%juB!bGQrPm
+ * Email: littus@i.ua
+ * */
